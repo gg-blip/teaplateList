@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5f56"],{9768:function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v("新闻页面")])},s=[],u={name:"news"},a=u,r=c("2877"),f=Object(r["a"])(a,t,s,!1,null,"fec2f68c",null);n["default"]=f.exports}}]);
